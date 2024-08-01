@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
-metadta:
+metadata:
   labels:
     app: nginx
   name: nginx-deployment
